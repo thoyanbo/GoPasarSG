@@ -1,6 +1,6 @@
 # GoPasarSG
 Submission for Project GoLive, Shopee Go School Run 2.\
-This project is completed by Oon Xinni, Seah Dick Hong, Tho Yan Bo.
+This project is completed by Oon Xin Ni, Seah Dick Hong, Tho Yan Bo.
 
 To run the web application:
 1. Set-up the MySQL database using the SQL text file included in the set-up folder.
