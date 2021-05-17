@@ -1,6 +1,6 @@
 # GoPasarSG
 Submission for Project GoLive, Shopee Go School Run 2.\
-This project is completed by Oon Xin Ni, Seah Dick Hong, Tho Yan Bo.
+This project is completed by Oon Xin Ni, Seah Dick Hong, Tho Yan Bo.\
 Demo Video -> https://drive.google.com/file/d/1XCg164YNl1ercd3hhtKTVAhN4rTPxCpA/view?usp=sharing
 
 To run the web application:
